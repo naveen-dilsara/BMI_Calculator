@@ -17,5 +17,5 @@ One can easily calculate their body mass index via these app.
 Just enter your height and body weight and there click on calculate BMI and there you go.
 
 
- 
-![App Image](https://cdn.dribbble.com/users/1553101/screenshots/4585382/attachments/1036694/selector_page.png)     ![App Image 2](https://cdn.dribbble.com/users/1553101/screenshots/4585382/attachments/1036693/result_page.png)
+<img src="https://github.com/naveen-dilsara/Simple_BMI_Calculator/blob/main/ScreenShots/Google%20Pixel%204%20XL%20Screenshot%201.png"  width="200" height="400" />   <img src="https://github.com/naveen-dilsara/Simple_BMI_Calculator/blob/main/ScreenShots/Google%20Pixel%204%20XL%20Screenshot%202.png"  width="200" height="400" />
+
