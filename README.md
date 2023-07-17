@@ -3,7 +3,7 @@
 
 Body Mass Index is an index calculated with the help of the height and weight of a person which categorieses him or her to different groups
 like healthy, over weight, under weight, etc. as per the standard guidelines and research.
-This a Body Mass Index Calculator.
+This a Body Mass Index Calculator. <br><br>
 Inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
 It will be a single screen app with simple functionality but full-on custom styling.
 
